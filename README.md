@@ -6,10 +6,11 @@ this is an application for tracking Budget
 
 ## running application
 in `/Develope` directory run:
+
 ```shell script
 npm install
 npm start
 ```
 
 ## Deplyed application
-Click [here](https://www.google.com) to see deployed application
+Click [here](https://quiet-brook-15641.herokuapp.com/) to see deployed application
